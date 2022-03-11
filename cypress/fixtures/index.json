@@ -1,0 +1,6 @@
+{
+
+"searchBox" : "#search_query_top",
+"searchButton": "[name='submit_search']"
+
+}
